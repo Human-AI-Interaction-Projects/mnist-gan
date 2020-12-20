@@ -50,8 +50,10 @@ To see the extent to which random feature swaps would result in vetoing, we prog
 ### Experiment 4
 
 ### Experiment 5
+In this experiment, we want to investigate the effects of ablating filters that are important for generating a specific number. We can see the generate image and the result of a layer that contains 64 feature maps  below. At this stage, some feature maps are already taking on the shape of the resulting image. To test the effects of filter ablation, we will ablate filters with a clear resemblance to the final image to see if that will allow our edits to propogate through.
 ![experiment5a_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5a_1.png?raw=true)
 ![experiment5a_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5a_2.png?raw=true)
+
 
 ![experiment5b_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5b_1.png?raw=true)
 ![experiment5b_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5b_2.png?raw=true)
