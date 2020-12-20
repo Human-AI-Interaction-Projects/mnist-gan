@@ -56,6 +56,7 @@ In this experiment, we want to investigate the effects of ablating filters that 
 ![experiment5a_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5a_2.png?raw=true)
 
 Unfortunately, even with filter ablation, we were unable to propagate the results through to the final image. We believe the underlying cause of this issue is that the feature map representation of the Generator is too entangled.
+
 ![experiment5b_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5b_1.png?raw=true)
 ![experiment5b_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5b_2.png?raw=true)
 
