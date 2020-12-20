@@ -29,6 +29,8 @@
 
 ### Experiment 1
 
+![exp1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_a.jpg)
+
 ### Experiment 2
 
 ### Experiment 3
