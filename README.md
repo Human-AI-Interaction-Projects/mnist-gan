@@ -29,6 +29,8 @@ To better understand this scenario, we chose to train a GAN on the MNIST datasse
 
 ## GAN Implementation
 
+We implemented this GAN using pytorch, and structured the generator as a list of separate layers. This made it easy to dissect the network and view feature maps while an output is produced.
+
 ## Feature Map Experiments
 
 ### Experiment 1
