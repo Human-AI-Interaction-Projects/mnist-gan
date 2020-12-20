@@ -29,8 +29,10 @@
 
 ### Experiment 1
 
-![experiment1_a](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_a.png?raw=true)
-![experiment1_b](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_b.png?raw=true)
+![experiment1a](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1a.png?raw=true)
+![experiment1b_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1b_1.png?raw=true)
+![experiment1b_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1b_2.png?raw=true)
+![experiment1b_3](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1b_3.png?raw=true)
 
 ### Experiment 2
 
