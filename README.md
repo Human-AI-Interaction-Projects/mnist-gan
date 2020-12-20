@@ -29,7 +29,7 @@
 
 ### Experiment 1
 
-![exp1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_a.jpg)
+![exp1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_a.png?raw=true)
 
 ### Experiment 2
 
