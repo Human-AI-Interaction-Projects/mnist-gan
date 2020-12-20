@@ -35,7 +35,10 @@ We implemented this GAN using pytorch, and structured the generator as a list of
 
 ### Experiment 1
 
+In this experiment, we swapped 25 random features, out of 128, of the source image with the donor image and saw that the Generator still creates an image that looks like the source image. This indicates that the Generator is vetoing these changes.
 ![experiment1a](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1a.png?raw=true)
+
+To see the extent to which random feature swaps would result in vetoing, we progressively increased the percentage of features swapped for several numbers.
 ![experiment1b_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1b_1.png?raw=true)
 ![experiment1b_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1b_2.png?raw=true)
 ![experiment1b_3](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1b_3.png?raw=true)
