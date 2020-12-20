@@ -29,7 +29,8 @@
 
 ### Experiment 1
 
-![exp1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_a.png?raw=true)
+![experiment1_a](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_a.png?raw=true)
+![experiment1_b](https://github.com/binhanle/mnist-gan/blob/main/results/experiment1_b.png?raw=true)
 
 ### Experiment 2
 
@@ -38,6 +39,11 @@
 ### Experiment 4
 
 ### Experiment 5
+![experiment5a_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5a_1.png?raw=true)
+![experiment5a_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5a_2.png?raw=true)
+
+![experiment5b_1](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5b_1.png?raw=true)
+![experiment5b_2](https://github.com/binhanle/mnist-gan/blob/main/results/experiment5b_2.png?raw=true)
 
 ## Resources
 - [GAN Dissection: Visualizing and Understanding Generative Adversarial Networks](https://arxiv.org/abs/1811.10597) Inspiration for this project
